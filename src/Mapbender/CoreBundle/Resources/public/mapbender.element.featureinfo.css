@@ -1,0 +1,6 @@
+.mb-element-featureinfo .ui-button-icon-primary.featureinfo{
+    background-image: url("icons/MActionIdentify.png")
+}
+.mb-element-featureinfo {
+    display: inline-block
+}
